@@ -1,2 +1,1 @@
-spring:
-  profiles: p3
+foo: 1223

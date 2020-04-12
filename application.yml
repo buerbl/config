@@ -1,6 +1,4 @@
-spring:
-  profiles: p1
-  application:
+application:
     name: microservicloud-config-service1
 
 
