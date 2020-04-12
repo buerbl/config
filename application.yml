@@ -1,31 +1,6 @@
 spring:
-  profiles:
-    active: p3
-
----
-
-spring:
   profiles: p1
   application:
     name: microservicloud-config-service1
-server:
-  port: 8081
 
 
----
-
-spring:
-  profiles: p2
-  application:
-    name: microservicloud-config-service2
-server:
-  port: 8082
-
----
-
-spring:
-  profiles: p3
-  application:
-    name: microservicloud-config-service3
-server:
-  port: 8083

@@ -1,25 +1,4 @@
 spring:
-  profiles:
-    active: p2
-
----
-
-spring:
-  profiles: p1
-server:
-  port: 8081
-
-
----
-
-spring:
-  profiles: p2
-server:
-  port: 8082
-
----
-
-spring:
   profiles: p3
 server:
   port: 8083
